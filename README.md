@@ -9,8 +9,6 @@
 
 An end-to-end data analysis project that explores and visualizes patterns in household electricity consumption. This project ingests high-frequency sensor data, performs thorough cleaning and time-series aggregation, and delivers key insights through static visualizations and an interactive dashboard.
 
-**Live Demo:** [View the Interactive Dashboard on NBViewer](https://nbviewer.org/github/your_username/your_repo_name/blob/main/energy_analysis.ipynb) *(Replace with your link)*
-
 ---
 
 ## 📊 Project Overview
