@@ -112,10 +112,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 -   GitHub: [@MaryamCodeHub](https://github.com/MaryamCodeHub)
 
 ---
-
-##  Acknowledgments
-
--   Data provided by [UCI Machine Learning Repository](https://archive.ics.uci.edu).
--   Inspiration for data storytelling and analysis.
--   Thanks to the open-source community for the invaluable tools (Pandas, NumPy, Plotly, Matplotlib).
-```
