@@ -1,5 +1,5 @@
 
-# 🔌 Household Energy Consumption Analysis & Dashboard
+#  Household Energy Consumption Analysis & Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
@@ -11,7 +11,7 @@ An end-to-end data analysis project that explores and visualizes patterns in hou
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project tackles a common real-world problem: understanding the "why" behind energy usage. While most people just see a number on their monthly bill, this analysis dives deep into the data to uncover the hidden drivers of consumption—weather, time of day, and appliance usage—and presents the findings in an actionable way for both homeowners and utility providers.
 
@@ -24,7 +24,7 @@ The core deliverable is an interactive dashboard that allows users to explore th
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 **Source:** [UCI Machine Learning Repository: Individual household electric power consumption](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
 
@@ -39,7 +39,7 @@ The core deliverable is an interactive dashboard that allows users to explore th
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
@@ -74,19 +74,19 @@ The core deliverable is an interactive dashboard that allows users to explore th
 
 ---
 
-## 📈 Key Insights & Findings
+##  Key Insights & Findings
 
 The analysis revealed several strong patterns in household energy consumption:
 
-1.  **🔄 Strong Seasonality:** Consumption peaks consistently during the winter (Dec-Jan) and summer (Jun-Aug) months due to heating and cooling needs, as clearly shown in the heatmap.
-2.  **🌡️ Temperature Correlation:** A clear **U-shaped relationship** exists between temperature and consumption. Usage is lowest at moderate temperatures (~20°C) and spikes during both extreme cold and extreme heat.
-3.  **⏰ Time-Based Patterns:** Daily usage is not constant. Weekends and holidays show significantly higher consumption, likely due to occupants being home all day.
-4.  **📊 Usage Distribution:** Most days fall within a "normal" consumption range, but a long tail of high-usage days significantly impacts the monthly total.
-5.  **🧺 Appliance Impact:** The operation of major appliances like the washing machine has a measurable and identifiable impact on the total daily load.
+1.  **Strong Seasonality:** Consumption peaks consistently during the winter (Dec-Jan) and summer (Jun-Aug) months due to heating and cooling needs, as clearly shown in the heatmap.
+2.  **Temperature Correlation:** A clear **U-shaped relationship** exists between temperature and consumption. Usage is lowest at moderate temperatures (~20°C) and spikes during both extreme cold and extreme heat.
+3.  **Time-Based Patterns:** Daily usage is not constant. Weekends and holidays show significantly higher consumption, likely due to occupants being home all day.
+4.  **Usage Distribution:** Most days fall within a "normal" consumption range, but a long tail of high-usage days significantly impacts the monthly total.
+5.  **Appliance Impact:** The operation of major appliances like the washing machine has a measurable and identifiable impact on the total daily load.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your_username/your_repo_name/issues).
 
@@ -98,13 +98,13 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 📜 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name**
 -   HashNode: [CodeYums.com](https://codeyums.hashnode.dev/)
@@ -113,7 +113,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 -   Data provided by [UCI Machine Learning Repository](https://archive.ics.uci.edu).
 -   Inspiration for data storytelling and analysis.
